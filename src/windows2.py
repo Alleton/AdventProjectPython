@@ -3,6 +3,7 @@ Created on 16 févr. 2016
 
 @author: jf
 Gui to solve Advent
+import to Git
 '''
 from tkinter import Tk
 import adventView.adView
