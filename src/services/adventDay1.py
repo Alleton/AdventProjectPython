@@ -27,14 +27,12 @@ class AdventDay1():
         print ("Test = " + str(self.testing ))
         
         part2=True
-        #FileContent = services.readfile.adventRead(1)
         
         
         
         f = open("../resources/AdventProject1.txt", 'r')   
-        # read entire content of file into memory
-        #f_content = f.read()
-    # basically match middle line and replace it with itself and the extra line
+        
+    
         for line in f:
             print ( line )
             print (len(line))
